@@ -5,7 +5,7 @@ Each line in <i>.txt</i> file has one integer.
 
 For example:  
 ---
-How many numbers you want to generate? : <b>20</b>  
+How many numbers do you want to generate? : <b>20</b>  
 Set range.  
 From: <b>1</b>  
 To: <b>100</b>  
