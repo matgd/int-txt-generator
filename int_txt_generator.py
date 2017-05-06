@@ -1,6 +1,6 @@
 import random
 
-n = int(input("How many numbers you want to generate? : "))
+n = int(input("How many numbers do you want to generate? : "))
 print("Set range.")
 a = int(input("From: "))
 b = int(input("To: "))
