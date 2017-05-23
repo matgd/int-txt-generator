@@ -5,12 +5,13 @@ Each line in <i>.txt</i> file has one integer.
 
 For example:  
 ---
-How many numbers do you want to generate? : <b>20</b>  
+```
+How many numbers do you want to generate? : 20  
 Set range.  
-From: <b>1</b>  
-To: <b>100</b>  
-
-<i>In file random_ints_20.txt:</i>  
+From: 1   
+To: 100  
+```
+<b><i>In file random_ints_20.txt:</i></b>  
 6  
 52  
 95  
